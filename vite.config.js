@@ -5,7 +5,7 @@ import react from "@vitejs/plugin-react";
 // e.g., if your repo is github.com/vinotht/portfolio → base: "/portfolio/"
 export default defineConfig({
   plugins: [react()],
-  base: "github.com/hivinoth8/portfolio", // ← UPDATE THIS to match your GitHub repo name
+  base: "/portfolio/", // ← UPDATE THIS to match your GitHub repo name
   build: {
     outDir: "dist",
     assetsDir: "assets",

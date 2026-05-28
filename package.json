@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://github.com/hivinoth8/portfolio",
+  "homepage": "https://hivinoth8.github.io/portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
